@@ -1,4 +1,3 @@
-# Gender-Classification-visualization 
 # Gender Classification Dataset through create a dashboard for data visualization or for prediction
 
 ## Introduction : 
