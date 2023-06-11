@@ -43,7 +43,41 @@ These are just a few examples of algorithms that could be used for gender classi
 
 These are just a few steps in a potential methodology for creating a gender classification dashboard using Streamlit. The specific approach may vary depending on the requirements of the project and the characteristics of the dataset.
 
-Conclusion : 
-In conclusion, creating a gender classification dashboard using a dataset with features such as long_hair, forehead_width, forehead_height, nose_width, nose_length, lips_thin, and distance_nose_lip can be a useful tool for various applications such as social media, dating apps, and e-commerce websites. By using machine learning algorithms and feature selection techniques, we can create an accurate model for gender classification that can be deployed into a user-friendly dashboard using Streamlit.
-The methodology discussed in this report involves several steps such as data preparation, feature selection, model selection, model tuning, model deployment, and dashboard testing. By following these steps, we can ensure that the gender classification dashboard is functioning as intended and providing accurate predictions.
-Overall, the gender classification dashboard can help improve user experience, increase engagement, and provide valuable insights into user preferences. It can also be further enhanced by incorporating additional features and improving the accuracy of the model. With the increasing importance of personalized and targeted marketing, a gender classification dashboard can be a valuable asset for businesses and organizations looking to improve their marketing strategies. 
+## Conclusion : 
+      In conclusion, creating a gender classification dashboard using a dataset with features such as long_hair, forehead_width, forehead_height, nose_width, nose_length, lips_thin, and distance_nose_lip can be a useful tool for various applications such as social media, dating apps, and e-commerce websites. By using machine learning algorithms and feature selection techniques, we can create an accurate model for gender classification that can be deployed into a user-friendly dashboard using Streamlit.
+
+      The methodology discussed in this report involves several steps such as data preparation, feature selection, model selection, model tuning, model deployment, and dashboard testing. By following these steps, we can ensure that the gender classification dashboard is functioning as intended and providing accurate predictions.
+
+      Overall, the gender classification dashboard can help improve user experience, increase engagement, and provide valuable insights into user preferences. It can also be further enhanced by incorporating additional features and improving the accuracy of the model. With the increasing importance of personalized and targeted marketing, a gender classification dashboard can be a valuable asset for businesses and organizations looking to improve their marketing strategies. 
+
+## References :
+Kaggle : Gender Classification Dataset - https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset?resource=download
+Streamlit documentation: https://docs.streamlit.io/en/stable/
+Python Machine Learning, Second Edition, by Sebastian Raschka and Vahid Mirjalili
+Introduction to Machine Learning with Python: A Guide for Data Scientists, by Andreas Müller and Sarah Guido
+Feature Selection for Machine Learning, by Huan Liu and Hiroshi Motoda
+"Comparison of Random Search and Grid Search for Hyperparameter Optimization" by James Bergstra and Yoshua Bengio
+"A Tutorial on Bayesian Optimization of Expensive Cost Functions" by Eric Brochu, Vlad M. Cora, and Nando de Freitas.
+
+        These references provide a good starting point for learning about Streamlit, machine learning algorithms, feature selection, hyperparameter tuning, and optimization techniques.
+
+Appendices :
+     here are some appendices that could be included in a report for a gender classification dashboard using Streamlit:
+
+Appendix A: Data Dictionary
+This appendix provides a detailed description of the dataset used for gender classification, including the features and target variable.
+
+Appendix B: Feature Importance
+This appendix provides a summary of the feature importance for the selected machine learning algorithm. This can help provide insight into which features are most important for predicting gender.
+
+Appendix C: Hyperparameter Tuning
+This appendix provides details on the hyperparameter tuning process used to optimize the machine learning algorithm's performance. This can include information on the parameter space searched, the performance metrics used, and the best hyperparameters found.
+
+Appendix D: Dashboard Screenshots
+This appendix provides screenshots of the Streamlit dashboard and its various features, including the input fields, the prediction output, and any additional visualizations or interactive components.
+
+Appendix E: Code Listings
+This appendix provides code listings for the various components of the gender classification dashboard, including data preprocessing, feature selection, machine learning algorithms, hyperparameter tuning, and dashboard creation using Streamlit.
+
+Including these appendices in the report can provide additional context and detail for the gender classification dashboard, and can help ensure that the report is comprehensive and informative.
+
