@@ -51,13 +51,13 @@ The methodology discussed in this report involves several steps such as data pre
 Overall, the gender classification dashboard can help improve user experience, increase engagement, and provide valuable insights into user preferences. It can also be further enhanced by incorporating additional features and improving the accuracy of the model. With the increasing importance of personalized and targeted marketing, a gender classification dashboard can be a valuable asset for businesses and organizations looking to improve their marketing strategies. 
 
 ## References :
-Kaggle : Gender Classification Dataset - https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset?resource=download
-Streamlit documentation: https://docs.streamlit.io/en/stable/
-Python Machine Learning, Second Edition, by Sebastian Raschka and Vahid Mirjalili
-Introduction to Machine Learning with Python: A Guide for Data Scientists, by Andreas Müller and Sarah Guido
-Feature Selection for Machine Learning, by Huan Liu and Hiroshi Motoda
-"Comparison of Random Search and Grid Search for Hyperparameter Optimization" by James Bergstra and Yoshua Bengio
-"A Tutorial on Bayesian Optimization of Expensive Cost Functions" by Eric Brochu, Vlad M. Cora, and Nando de Freitas.
+1. Kaggle : Gender Classification Dataset - https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset?resource=download
+2. Streamlit documentation: https://docs.streamlit.io/en/stable/
+3. Python Machine Learning, Second Edition, by Sebastian Raschka and Vahid Mirjalili
+4. Introduction to Machine Learning with Python: A Guide for Data Scientists, by Andreas Müller and Sarah Guido
+5. Feature Selection for Machine Learning, by Huan Liu and Hiroshi Motoda
+6. "Comparison of Random Search and Grid Search for Hyperparameter Optimization" by James Bergstra and Yoshua Bengio
+7. "A Tutorial on Bayesian Optimization of Expensive Cost Functions" by Eric Brochu, Vlad M. Cora, and Nando de Freitas.
 
 These references provide a good starting point for learning about Streamlit, machine learning algorithms, feature selection, hyperparameter tuning, and optimization techniques.
 
