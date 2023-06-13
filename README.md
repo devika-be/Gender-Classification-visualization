@@ -61,7 +61,7 @@ Overall, the gender classification dashboard can help improve user experience, i
 
 These references provide a good starting point for learning about Streamlit, machine learning algorithms, feature selection, hyperparameter tuning, and optimization techniques.
 
-Appendices :
+## Appendices :
 here are some appendices that could be included in a report for a gender classification dashboard using Streamlit:
 
 Appendix A: Data Dictionary
