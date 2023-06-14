@@ -64,7 +64,7 @@ These references provide a good starting point for learning about Streamlit, mac
 ## Appendices :
 here are some appendices that could be included in a report for a gender classification dashboard using Streamlit:
 
-Appendix A: Data Dictionary
+#### Appendix A: Data Dictionary
 This appendix provides a detailed description of the dataset used for gender classification, including the features and target variable.
 
 Appendix B: Feature Importance
