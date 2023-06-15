@@ -67,7 +67,7 @@ here are some appendices that could be included in a report for a gender classif
 #### Appendix A: Data Dictionary
 This appendix provides a detailed description of the dataset used for gender classification, including the features and target variable.
 
-Appendix B: Feature Importance
+#### Appendix B: Feature Importance
 This appendix provides a summary of the feature importance for the selected machine learning algorithm. This can help provide insight into which features are most important for predicting gender.
 
 Appendix C: Hyperparameter Tuning
