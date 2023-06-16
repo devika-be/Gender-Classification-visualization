@@ -70,7 +70,7 @@ This appendix provides a detailed description of the dataset used for gender cla
 #### Appendix B: Feature Importance
 This appendix provides a summary of the feature importance for the selected machine learning algorithm. This can help provide insight into which features are most important for predicting gender.
 
-Appendix C: Hyperparameter Tuning
+#### Appendix C: Hyperparameter Tuning
 This appendix provides details on the hyperparameter tuning process used to optimize the machine learning algorithm's performance. This can include information on the parameter space searched, the performance metrics used, and the best hyperparameters found.
 
 Appendix D: Dashboard Screenshots
