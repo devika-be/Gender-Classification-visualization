@@ -73,7 +73,7 @@ This appendix provides a summary of the feature importance for the selected mach
 #### Appendix C: Hyperparameter Tuning
 This appendix provides details on the hyperparameter tuning process used to optimize the machine learning algorithm's performance. This can include information on the parameter space searched, the performance metrics used, and the best hyperparameters found.
 
-Appendix D: Dashboard Screenshots
+#### Appendix D: Dashboard Screenshots
 This appendix provides screenshots of the Streamlit dashboard and its various features, including the input fields, the prediction output, and any additional visualizations or interactive components.
 
 Appendix E: Code Listings
