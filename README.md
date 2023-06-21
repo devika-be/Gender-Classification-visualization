@@ -76,7 +76,7 @@ This appendix provides details on the hyperparameter tuning process used to opti
 #### Appendix D: Dashboard Screenshots
 This appendix provides screenshots of the Streamlit dashboard and its various features, including the input fields, the prediction output, and any additional visualizations or interactive components.
 
-Appendix E: Code Listings
+#### Appendix E: Code Listings
 This appendix provides code listings for the various components of the gender classification dashboard, including data preprocessing, feature selection, machine learning algorithms, hyperparameter tuning, and dashboard creation using Streamlit.
 
 Including these appendices in the report can provide additional context and detail for the gender classification dashboard, and can help ensure that the report is comprehensive and informative.
