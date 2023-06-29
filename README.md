@@ -79,5 +79,6 @@ This appendix provides screenshots of the Streamlit dashboard and its various fe
 #### Appendix E: Code Listings
 This appendix provides code listings for the various components of the gender classification dashboard, including data preprocessing, feature selection, machine learning algorithms, hyperparameter tuning, and dashboard creation using Streamlit.
 
-        Including these appendices in the report can provide additional context and detail for the gender classification dashboard, and can help ensure that the report is comprehensive and informative.
+
+  Including these appendices in the report can provide additional context and detail for the gender classification dashboard, and can help ensure that the report is comprehensive and informative.
 
